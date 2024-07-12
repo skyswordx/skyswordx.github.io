@@ -6,7 +6,7 @@
   <link href="https://skyswordx.github.io/atom.xml" rel="self"/>
   
   <link href="https://skyswordx.github.io/"/>
-  <updated>2024-04-29T05:52:30.625Z</updated>
+  <updated>2024-07-12T13:36:50.039Z</updated>
   <id>https://skyswordx.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ROS1 总结文档</title>
+    <link href="https://skyswordx.github.io/2024/07/12/robots/ROS1/"/>
+    <id>https://skyswordx.github.io/2024/07/12/robots/ROS1/</id>
+    <published>2024-07-12T13:19:25.903Z</published>
+    <updated>2024-07-12T13:36:50.039Z</updated>
+    
+    
+    <summary type="html">不开心，下次再写</summary>
+    
+    
+    
+    
+    <category term="机器人" scheme="https://skyswordx.github.io/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>级数</title>
