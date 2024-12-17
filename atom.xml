@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>yuanyue&#39;s blog</title>
+  <title>circLΣMoon&#39;s blog</title>
   <icon>https://skyswordx.github.io/icon.png</icon>
   
   <link href="https://skyswordx.github.io/atom.xml" rel="self"/>
   
   <link href="https://skyswordx.github.io/"/>
-  <updated>2024-07-12T13:47:49.215Z</updated>
+  <updated>2024-12-17T13:54:15.123Z</updated>
   <id>https://skyswordx.github.io/</id>
   
   <author>
-    <name>yuanyue</name>
+    <name>circLΣMoon</name>
     
   </author>
   
@@ -18,13 +18,13 @@
   
   <entry>
     <title>ROS1 总结文档</title>
-    <link href="https://skyswordx.github.io/2024/07/12/robots/ROS1/"/>
-    <id>https://skyswordx.github.io/2024/07/12/robots/ROS1/</id>
+    <link href="https://skyswordx.github.io/2024/07/12/robotics/ROS1/"/>
+    <id>https://skyswordx.github.io/2024/07/12/robotics/ROS1/</id>
     <published>2024-07-12T13:19:25.903Z</published>
-    <updated>2024-07-12T13:47:49.215Z</updated>
+    <updated>2024-12-17T13:54:15.123Z</updated>
     
     
-    <summary type="html">不开心，下次再写</summary>
+    <summary type="html">有待整理，化繁为简，断舍离</summary>
     
     
     
@@ -35,8 +35,8 @@
   
   <entry>
     <title>级数</title>
-    <link href="https://skyswordx.github.io/2024/04/22/Learning_college/math/caculate/number/"/>
-    <id>https://skyswordx.github.io/2024/04/22/Learning_college/math/caculate/number/</id>
+    <link href="https://skyswordx.github.io/2024/04/22/college-lessons/math/caculate/number/"/>
+    <id>https://skyswordx.github.io/2024/04/22/college-lessons/math/caculate/number/</id>
     <published>2024-04-22T14:58:48.971Z</published>
     <updated>2024-04-29T05:52:30.625Z</updated>
     
@@ -52,8 +52,8 @@
   
   <entry>
     <title>常微分方程</title>
-    <link href="https://skyswordx.github.io/2024/04/03/Learning_college/math/caculate/equation/"/>
-    <id>https://skyswordx.github.io/2024/04/03/Learning_college/math/caculate/equation/</id>
+    <link href="https://skyswordx.github.io/2024/04/03/college-lessons/math/caculate/equation/"/>
+    <id>https://skyswordx.github.io/2024/04/03/college-lessons/math/caculate/equation/</id>
     <published>2024-04-03T14:51:11.363Z</published>
     <updated>2024-04-22T15:22:12.342Z</updated>
     
@@ -69,8 +69,8 @@
   
   <entry>
     <title>组装穿越机的总结 v0.0</title>
-    <link href="https://skyswordx.github.io/2024/03/13/flying/drone/"/>
-    <id>https://skyswordx.github.io/2024/03/13/flying/drone/</id>
+    <link href="https://skyswordx.github.io/2024/03/13/robotics/how2make-drone/"/>
+    <id>https://skyswordx.github.io/2024/03/13/robotics/how2make-drone/</id>
     <published>2024-03-13T15:17:59.217Z</published>
     <updated>2024-03-13T15:19:23.287Z</updated>
     
@@ -86,8 +86,8 @@
   
   <entry>
     <title>线性代数做题总结 v0.0</title>
-    <link href="https://skyswordx.github.io/2024/03/13/Learning_college/math/linearAlgebra/forExam/"/>
-    <id>https://skyswordx.github.io/2024/03/13/Learning_college/math/linearAlgebra/forExam/</id>
+    <link href="https://skyswordx.github.io/2024/03/13/college-lessons/math/linearAlgebra/forExam/"/>
+    <id>https://skyswordx.github.io/2024/03/13/college-lessons/math/linearAlgebra/forExam/</id>
     <published>2024-03-13T03:36:15.831Z</published>
     <updated>2024-04-22T15:30:40.990Z</updated>
     
@@ -103,8 +103,8 @@
   
   <entry>
     <title>大学物理做题总结 v0.1</title>
-    <link href="https://skyswordx.github.io/2024/03/13/Learning_college/physic/physic/"/>
-    <id>https://skyswordx.github.io/2024/03/13/Learning_college/physic/physic/</id>
+    <link href="https://skyswordx.github.io/2024/03/13/college-lessons/physic/physic/"/>
+    <id>https://skyswordx.github.io/2024/03/13/college-lessons/physic/physic/</id>
     <published>2024-03-13T03:33:33.364Z</published>
     <updated>2024-04-29T05:54:07.695Z</updated>
     
@@ -120,8 +120,8 @@
   
   <entry>
     <title>曲线积分和曲面积分 v1.0</title>
-    <link href="https://skyswordx.github.io/2024/03/11/Learning_college/math/caculate/line/"/>
-    <id>https://skyswordx.github.io/2024/03/11/Learning_college/math/caculate/line/</id>
+    <link href="https://skyswordx.github.io/2024/03/11/college-lessons/math/caculate/line/"/>
+    <id>https://skyswordx.github.io/2024/03/11/college-lessons/math/caculate/line/</id>
     <published>2024-03-11T07:20:06.833Z</published>
     <updated>2024-03-27T13:18:55.325Z</updated>
     
@@ -137,8 +137,8 @@
   
   <entry>
     <title>模拟电路基础 v0.3</title>
-    <link href="https://skyswordx.github.io/2024/03/07/Learning_college/electronic/analog/"/>
-    <id>https://skyswordx.github.io/2024/03/07/Learning_college/electronic/analog/</id>
+    <link href="https://skyswordx.github.io/2024/03/07/college-lessons/electronic/analog/"/>
+    <id>https://skyswordx.github.io/2024/03/07/college-lessons/electronic/analog/</id>
     <published>2024-03-07T13:42:47.217Z</published>
     <updated>2024-03-17T06:09:15.556Z</updated>
     
@@ -154,8 +154,8 @@
   
   <entry>
     <title>多重积分</title>
-    <link href="https://skyswordx.github.io/2024/03/04/Learning_college/math/caculate/iint2/"/>
-    <id>https://skyswordx.github.io/2024/03/04/Learning_college/math/caculate/iint2/</id>
+    <link href="https://skyswordx.github.io/2024/03/04/college-lessons/math/caculate/iint2/"/>
+    <id>https://skyswordx.github.io/2024/03/04/college-lessons/math/caculate/iint2/</id>
     <published>2024-03-04T06:50:00.558Z</published>
     <updated>2024-03-20T12:07:02.569Z</updated>
     
