@@ -6,7 +6,7 @@
   <link href="http://www.circlemoon.top/atom.xml" rel="self"/>
   
   <link href="http://www.circlemoon.top/"/>
-  <updated>2024-12-18T05:17:50.639Z</updated>
+  <updated>2024-12-18T12:37:14.271Z</updated>
   <id>http://www.circlemoon.top/</id>
   
   <author>
@@ -17,27 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>搭建 PX4-ROS-AirSim 仿真环境</title>
-    <link href="http://www.circlemoon.top/2024/12/18/robotics/simulation-environment/UE5.3-AirSim-Environment/"/>
-    <id>http://www.circlemoon.top/2024/12/18/robotics/simulation-environment/UE5.3-AirSim-Environment/</id>
-    <published>2024-12-18T04:05:38.862Z</published>
-    <updated>2024-12-18T05:17:50.639Z</updated>
+    <title></title>
+    <link href="http://www.circlemoon.top/2024/12/18/robotics/ROS-summary/PX4-ROS-LEARNING/"/>
+    <id>http://www.circlemoon.top/2024/12/18/robotics/ROS-summary/PX4-ROS-LEARNING/</id>
+    <published>2024-12-18T12:36:50.535Z</published>
+    <updated>2024-12-18T12:37:14.271Z</updated>
     
     
-    <summary type="html">有待整理，化繁为简，断舍离</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;PX4-ROS-LEARNING&quot;&gt;PX4-ROS-LEARNING&lt;/h1&gt;
+&lt;h2 id=&quot;参考链接&quot;&gt;参考链接&lt;/h2&gt;
+&lt;p&gt;这里是 PX4 官方文档的资料&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
     
     
     
-    
-    <category term="机器人" scheme="http://www.circlemoon.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
     
   </entry>
   
   <entry>
-    <title>学习使用 PX4-ROS 开发流程</title>
-    <link href="http://www.circlemoon.top/2024/12/18/robotics/ROS-summary/PX4-ROS-LEARNING/"/>
-    <id>http://www.circlemoon.top/2024/12/18/robotics/ROS-summary/PX4-ROS-LEARNING/</id>
-    <published>2024-12-18T04:05:38.852Z</published>
+    <title>搭建 PX4-ROS-AirSim 仿真环境</title>
+    <link href="http://www.circlemoon.top/2024/12/18/robotics/simulation-environment/UE5.3-AirSim-Environment/"/>
+    <id>http://www.circlemoon.top/2024/12/18/robotics/simulation-environment/UE5.3-AirSim-Environment/</id>
+    <published>2024-12-18T04:05:38.862Z</published>
     <updated>2024-12-18T05:17:50.639Z</updated>
     
     
