@@ -6,7 +6,7 @@
   <link href="http://www.circlemoon.top/atom.xml" rel="self"/>
   
   <link href="http://www.circlemoon.top/"/>
-  <updated>2024-12-18T12:48:50.917Z</updated>
+  <updated>2024-12-19T15:50:08.767Z</updated>
   <id>http://www.circlemoon.top/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生成式物理引擎 Genesis 配置踩坑记录</title>
+    <link href="http://www.circlemoon.top/2024/12/19/robotics/Genesis-learning/"/>
+    <id>http://www.circlemoon.top/2024/12/19/robotics/Genesis-learning/</id>
+    <published>2024-12-19T15:42:18.406Z</published>
+    <updated>2024-12-19T15:50:08.767Z</updated>
+    
+    
+    <summary type="html">持续更新中</summary>
+    
+    
+    
+    
+    <category term="机器人" scheme="http://www.circlemoon.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>从零开始的 PX4-ROS 之旅</title>
