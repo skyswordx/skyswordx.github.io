@@ -6,7 +6,7 @@
   <link href="http://www.circlemoon.top/atom.xml" rel="self"/>
   
   <link href="http://www.circlemoon.top/"/>
-  <updated>2024-12-21T08:45:41.556Z</updated>
+  <updated>2024-12-21T09:24:07.421Z</updated>
   <id>http://www.circlemoon.top/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WSL-Ubuntu-conda 环境中找不到 lib.so 动态库</title>
+    <link href="http://www.circlemoon.top/2024/12/21/robotics/GPU-Setup/cannot-find-libxxx.so/"/>
+    <id>http://www.circlemoon.top/2024/12/21/robotics/GPU-Setup/cannot-find-libxxx.so/</id>
+    <published>2024-12-21T09:22:54.030Z</published>
+    <updated>2024-12-21T09:24:07.421Z</updated>
+    
+    
+    <summary type="html">debug 了一个早上和一个中午</summary>
+    
+    
+    
+    
+    <category term="机器人" scheme="http://www.circlemoon.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>随便写写</title>
