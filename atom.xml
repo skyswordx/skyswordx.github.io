@@ -6,7 +6,7 @@
   <link href="http://www.circlemoon.top/atom.xml" rel="self"/>
   
   <link href="http://www.circlemoon.top/"/>
-  <updated>2024-12-21T09:24:07.421Z</updated>
+  <updated>2025-01-10T15:30:20.780Z</updated>
   <id>http://www.circlemoon.top/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>复制粘贴的诗集</title>
+    <link href="http://www.circlemoon.top/2025/01/10/draft/copy_down/"/>
+    <id>http://www.circlemoon.top/2025/01/10/draft/copy_down/</id>
+    <published>2025-01-10T15:28:27.686Z</published>
+    <updated>2025-01-10T15:30:20.780Z</updated>
+    
+    
+    <summary type="html">不会取名字</summary>
+    
+    
+    
+    
+    <category term="写写写写" scheme="http://www.circlemoon.top/tags/%E5%86%99%E5%86%99%E5%86%99%E5%86%99/"/>
+    
+  </entry>
   
   <entry>
     <title>WSL-Ubuntu-conda 环境中找不到 lib.so 动态库</title>
@@ -38,7 +55,7 @@
     <link href="http://www.circlemoon.top/2024/12/20/draft/just_write_it/"/>
     <id>http://www.circlemoon.top/2024/12/20/draft/just_write_it/</id>
     <published>2024-12-20T10:54:39.287Z</published>
-    <updated>2024-12-25T01:57:03.803Z</updated>
+    <updated>2025-01-10T15:28:23.934Z</updated>
     
     
     <summary type="html">不会取名字</summary>
