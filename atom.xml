@@ -6,7 +6,7 @@
   <link href="http://www.circlemoon.top/atom.xml" rel="self"/>
   
   <link href="http://www.circlemoon.top/"/>
-  <updated>2025-01-12T13:32:54.662Z</updated>
+  <updated>2025-01-21T00:24:06.001Z</updated>
   <id>http://www.circlemoon.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.circlemoon.top/2025/01/21/robotics/AutoPilot-learning-record/Autopilot-learning-record/"/>
+    <id>http://www.circlemoon.top/2025/01/21/robotics/AutoPilot-learning-record/Autopilot-learning-record/</id>
+    <published>2025-01-21T00:23:53.365Z</published>
+    <updated>2025-01-21T00:24:06.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;自动驾驶相关的组件学习记�&quot;&gt;自动驾驶相关的组件学习记�?&lt;/h1&gt;
+&lt;h2 id=&quot;参考链�&quot;&gt;参考链�?&lt;/h2&gt;
+&lt;p&gt;PID 视频教程&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;b 站搜�?PID 关键词有很多&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;arduino PID</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>记录喜欢的诗集</title>
