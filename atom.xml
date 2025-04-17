@@ -6,7 +6,7 @@
   <link href="http://www.circlemoon.top/atom.xml" rel="self"/>
   
   <link href="http://www.circlemoon.top/"/>
-  <updated>2025-04-17T14:19:31.695Z</updated>
+  <updated>2025-04-17T14:26:35.549Z</updated>
   <id>http://www.circlemoon.top/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>自动驾驶相关组件的学习记录</title>
-    <link href="http://www.circlemoon.top/2025/04/17/AutoPilot-learning-record/Autopilot-learning-record/"/>
-    <id>http://www.circlemoon.top/2025/04/17/AutoPilot-learning-record/Autopilot-learning-record/</id>
+    <link href="http://www.circlemoon.top/2025/04/17/robotics/AutoPilot-learning-record/Autopilot-learning-record/"/>
+    <id>http://www.circlemoon.top/2025/04/17/robotics/AutoPilot-learning-record/Autopilot-learning-record/</id>
     <published>2025-04-17T14:14:56.490Z</published>
-    <updated>2025-04-17T14:19:31.695Z</updated>
+    <updated>2025-04-17T14:26:35.549Z</updated>
     
     
     <summary type="html">更新 ing | 更新完 PID 部分</summary>
@@ -49,21 +49,6 @@
     <category term="数据结构与算法" scheme="http://www.circlemoon.top/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
     
     <category term="baseGithubRepo" scheme="http://www.circlemoon.top/tags/baseGithubRepo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>自动驾驶相关组件的学习记录</title>
-    <link href="http://www.circlemoon.top/2025/01/21/robotics/AutoPilot-learning-record/Autopilot-learning-record/"/>
-    <id>http://www.circlemoon.top/2025/01/21/robotics/AutoPilot-learning-record/Autopilot-learning-record/</id>
-    <published>2025-01-21T00:23:53.365Z</published>
-    <updated>2025-01-21T00:32:55.262Z</updated>
-    
-    
-    <summary type="html">更新ing</summary>
-    
-    
-    
     
   </entry>
   
