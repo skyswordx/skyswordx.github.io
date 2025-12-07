@@ -6,7 +6,7 @@
   <link href="http://www.circlemoon.top/atom.xml" rel="self"/>
   
   <link href="http://www.circlemoon.top/"/>
-  <updated>2025-04-17T14:26:35.549Z</updated>
+  <updated>2025-12-07T15:27:24.037Z</updated>
   <id>http://www.circlemoon.top/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.circlemoon.top/2025/12/07/robotics/RL/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/"/>
+    <id>http://www.circlemoon.top/2025/12/07/robotics/RL/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</id>
+    <published>2025-12-07T15:29:35.297Z</published>
+    <updated>2025-12-07T15:27:24.037Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;强化学习-第一章-基本概念&quot;&gt;强化学习-第一章-基本概念&lt;/h1&gt;
+&lt;p&gt;详细的请参考 &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>自动驾驶相关组件的学习记录</title>
